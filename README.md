@@ -11,5 +11,5 @@ Tambien se elabora un buyerpersona para idear lo mas atractivo
 para el publico de la empresa tambien dando recomendaciones para
 generar mayor audiencia.
 
-El maquetado se encuentra en el archivo index2.html asi como
-los estilos en el archivo styles2.css.
+El maquetado se encuentra en el archivo index.html asi como
+los estilos en el archivo styles.css.
