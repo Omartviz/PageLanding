@@ -57,7 +57,7 @@ header{
 /*-------------------------------------JUMBOTRON----------------------------------*/
 .jumbotron {
     padding: 50px 50px;
-    background-image: url(/Imgs/jumbotron.jpg);
+    background-image: url(/Pagina/Imgs/jumbotron.jpg);
     height: 85vh;
     background-size: cover;
     background-position: center;
